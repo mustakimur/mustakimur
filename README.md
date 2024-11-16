@@ -6,4 +6,7 @@
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-
+<br/>
+<picture>
+  <img src="/metrics.plugin.languages.svg" alt="Metrics">
+</picture>
