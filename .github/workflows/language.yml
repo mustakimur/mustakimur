@@ -23,4 +23,4 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot, llvm, objective-c
-          plugin_languages_limit: 6
+          plugin_languages_limit: 5
