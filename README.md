@@ -6,3 +6,5 @@
 ![Metrics](/github-metrics.svg)
 <br/>
 ![Metrics](/metrics.plugin.languages.svg)
+<br/>
+![Metrics](/metrics.plugin.stargazers.worldmap.svg)
