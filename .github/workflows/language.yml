@@ -26,4 +26,4 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 5
-          plugin_languages_analysis_timeout: 3
+          plugin_languages_analysis_timeout: 15
