@@ -3,10 +3,6 @@
 
 #### &#x1f4c8; My GitHub Stats
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Metrics](/github-metrics.svg)
 <br/>
-<picture>
-  <img src="/metrics.plugin.languages.svg" alt="Metrics">
-</picture>
+![Metrics](/metrics.plugin.languages.svg)
