@@ -22,8 +22,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, llvm, objective-c
-          plugin_languages_indepth: yes
+            gnuplot, llvm, objective-c, assembly
+          #plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 5
-          plugin_languages_analysis_timeout: 15
+          #plugin_languages_analysis_timeout: 15
