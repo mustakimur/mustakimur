@@ -5,7 +5,7 @@
 }
 
 .image-container img {
-    max-width: 60%; /* Ensure images scale down if needed */
+    max-width: 20%; /* Ensure images scale down if needed */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Remove inline image padding */
 }
