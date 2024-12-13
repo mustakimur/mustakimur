@@ -1,11 +1,11 @@
 .image-container {
     display: flex; /* Use flexbox for side-by-side layout */
     justify-content: center; /* Optional: Center the images */
-    gap: 10px; /* Optional: Add space between the images */
+    gap: 5px; /* Optional: Add space between the images */
 }
 
 .image-container img {
-    max-width: 100%; /* Ensure images scale down if needed */
+    max-width: 60%; /* Ensure images scale down if needed */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Remove inline image padding */
 }
