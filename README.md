@@ -10,3 +10,5 @@
 ![Metrics](/metrics.plugin.stargazers.worldmap.svg)
 <br/>
 ![Metrics](/metrics.plugin.achievements.compact.svg)
+
+<link rel="stylesheet" type="text/css" href="styles.css">
